@@ -88,8 +88,7 @@ html, body {
 }
 body {
     position: relative;
-    /* background-image: url('../img/oz01.jpg'); */
-    background-image: url('../img/oz-001.jpg');
+    /* background-image: url('../img/oz-001.jpg'); */
     /* background-size: cover; */
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -114,7 +113,7 @@ body::before {
     height: 100%;
     z-index: -2;
 
-    background-image: url('../img/oz-002.jpg');
+    /* background-image: url('../img/oz-002.jpg'); */
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;

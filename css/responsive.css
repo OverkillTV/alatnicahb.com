@@ -1,13 +1,13 @@
 @media only screen and (max-width: 960px) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 
 		/* animation: none; */
@@ -66,14 +66,14 @@
 }
 @media only screen and (max-width: 600px) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 
 		/* animation: none; */
@@ -148,14 +148,14 @@
 }
 @media only screen and (max-width: 500px) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 
 	}
@@ -229,14 +229,14 @@
 }
 @media only screen and (max-width: 375px) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 
 	}
@@ -314,14 +314,14 @@
 }
 @media only screen and (max-width: 360px) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 	}
 	#btnGoToTop {
@@ -398,13 +398,13 @@
 }
 @media only screen and (max-width: 320px) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 	}
 	#btnGoToTop {
@@ -482,14 +482,14 @@
 
 @media only screen  and (min-device-width: 320px)  and (max-device-width: 568px) and (orientation: portrait) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 	}
 	#btnGoToTop {
@@ -551,14 +551,14 @@
 }
 @media only screen and (min-device-width: 350px) and (max-device-width: 812px) and (orientation: portrait) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 	}
 	#btnGoToTop {
@@ -620,14 +620,14 @@
 }
 @media only screen and (min-device-width: 600px) and (max-device-width: 1180px) and (orientation: portrait) {
 	body {
-		background-image: url('../img/oz-001-mobile.jpg');
+		/* background-image: url('../img/oz-001-mobile.jpg'); */
 		background-position-y: 40px;
 		background-size: cover;
 
 		background-attachment: fixed;
 	}
 	body::before {
-		background-image: url('../img/oz-002-mobile.jpg');
+		/* background-image: url('../img/oz-002-mobile.jpg'); */
 		background-size: cover;
 
 		/* animation: none; */

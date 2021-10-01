@@ -12,6 +12,10 @@
     width: 400px;
 }
 
+.site_logo {
+    max-width: 100%;
+}
+
 .social_icons {
     display: flex;
     flex-direction: row;

@@ -1,5 +1,5 @@
 
-@keyframes blackBgFadeInOut {
+/* @keyframes blackBgFadeInOut {
     0% {
         opacity: 0;
     }
@@ -39,9 +39,9 @@
     100% {
         opacity: 0;
     }
-}
+} */
 
-@keyframes blackBgFadeInOutSecond {
+/* @keyframes blackBgFadeInOutSecond {
     0% {
         opacity: 0;
     }
@@ -75,7 +75,7 @@
     100% {
         opacity: 0;
     }
-}
+} */
 
 *, ::after, ::before {
     box-sizing: border-box;
@@ -161,9 +161,10 @@ a {
 .divBodyContent {
     /* width: 50%; */
     box-sizing: border-box;
-    padding-top: 40px;
-    padding-bottom: 20px;
+    padding-top: 90px;
+    /* padding-bottom: 20px; */
     /* margin-left: 30px; */
+    display: flex;
 }
 
 .divPageContent {
